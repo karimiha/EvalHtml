@@ -1,0 +1,45 @@
+
+body{
+  background-color: white;
+}
+header img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+
+}
+section img{
+  width: 100%;
+}
+h1{
+  border-top:2px solid black;
+  border-bottom: 2px solid black;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.textCenter{
+  text-align: center;
+}
+#salle img {
+  display: block;
+  margin-right: auto;
+}
+
+.pager{
+  display: inline-block;
+  width: 50%;
+}
+.pager h2{
+  /*font-language-override: normal;*/
+  /*font-family: 'Roboto', sans-serif;*/
+  font-family: 'Clicker Script', cursive;
+}
+.pager h3{
+}
+footer img{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
